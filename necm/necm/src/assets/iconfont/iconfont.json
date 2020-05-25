@@ -6,6 +6,13 @@
   "description": "网易云音乐项目用图标",
   "glyphs": [
     {
+      "icon_id": "4472504",
+      "name": "listen",
+      "font_class": "listen",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
       "icon_id": "7009042",
       "name": "search",
       "font_class": "search",
